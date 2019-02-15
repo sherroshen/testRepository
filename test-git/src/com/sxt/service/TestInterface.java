@@ -6,4 +6,5 @@ public interface TestInterface {
 	void m3();
 	void m4();
 	void branch();
+	void initial();
 }
